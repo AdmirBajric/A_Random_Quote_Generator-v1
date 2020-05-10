@@ -1,6 +1,6 @@
-# Techdegree project 1
+# A_Random_Quote_Generator-v1
 
-Project : a_random_quote_generator-v1
+Techdegree project 1
 
 In this project I have created the script.js file that displays random quotes each time the button "Show another quote" is clicked.
 
