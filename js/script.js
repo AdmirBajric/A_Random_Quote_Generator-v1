@@ -98,12 +98,12 @@ function getRandomBackgroundColor() {
  * This function ensure automatic calling and refreshment new quote to the client.
  ***/
 
-// function autoRefreshQuotes() {
-//   setInterval(printQuote, 10000);
-// }
+function autoRefreshQuotes() {
+  setInterval(printQuote, 10000);
+}
 
-// // One time calling autoRefreshQuotes function.
-// autoRefreshQuotes();
+// One time calling autoRefreshQuotes function.
+autoRefreshQuotes();
 
 /***
  * click event listener for the print quote button
